@@ -1,7 +1,7 @@
 Peak Watts - Privacy Policy  
 ----------------
 
-Last updated: December 16, 2023.
+Last updated: May 13, 2024.
 
 ### Introduction  
 This privacy policy applies to the **Peak Watts** app and explains how we collect, use, and share information about you when you use our app.
@@ -23,6 +23,8 @@ For Service operation and troubleshooting purpose we might automatically collect
 * Display resolution
 * App version
 
+For subscription processing purpose your device will be assigned with a random anonymous ID. This ID is used to determine subscription status and provide you with additional features in case subscription is active.
+
 ### b) In-ride Data Collection
 In order to provide the Service app needs access to your current location as well as other cycling-related data which can be obtained from the device or external sensors.
 
@@ -34,7 +36,7 @@ The following list describes which data we might access and record:
   - Apart from access during the ride, app might access your location while you are navigating the app interface to provide services like weather forecast for your location. 
 
 * **External sensors**
-  - Data collected from connected Bluetooth sensors might include your speed, cadence, heart rate, or power data. This data is displayed to you during the ride and recorded for post-ride analysis.
+  - Data collected from connected Bluetooth sensors might include your speed, cadence, heart rate, power or radar data. This data is displayed to you during the ride and recorded for post-ride analysis.
   - App will connect to sensor only if you choose to pair that sensor. 
   - You can disconnect or unpair sensors at any time from the "Sensors" view.
 
@@ -69,11 +71,15 @@ We do not serve advertisements within the app.
 ### 2. Information Sharing with Third Parties
   - **a) User Profile**
     - We do not share this information with third parties.
+   
+  - **b) Device Info**
+    - In order to process and provide subscription based features we might share device subscription identifier with the following third party:
+      - **RevenueCat** - service used to facilitate purchases on different platforms. For more information on RevenueCat please check [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy/)
 
-  - **b) In-ride Collected Data**
+  - **c) In-ride Collected Data**
     - We do not share this information with third parties. Our Services allow you to choose to share recorded data with other individuals and other companies. Consider your own privacy and personal safety when sharing your information with anyone. 
 
-  - **c) Analytics Data**
+  - **d) Analytics Data**
     - In order to maintain and develop the Service we might share your data with the following third parties: 
       - **Firebase Analytics** - analytics service provided by Google. Provides insights on used device (1.a info) and how you interact with app. In order to understand Google's use of data, consult [Google's partner policy](https://policies.google.com/technologies/partner-sites). [Firebase Privacy information](https://firebase.google.com/support/privacy/). [Google’s Privacy Policy.](https://policies.google.com/privacy)
       - **Firebase Crashlytics** - service provided by Google which provides insights on app crashes. For more information please check [Data Collection Policy](https://firebase.google.com/support/privacy).
@@ -85,5 +91,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ### 4. Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
+
 Contact Information:  
-Email: *app.peakwatts@gmail.com*
+Email: *support@peakwatts.app*
